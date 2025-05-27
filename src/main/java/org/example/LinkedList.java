@@ -235,5 +235,7 @@ public class LinkedList {
             first = t1;
             second = t2;
         }
+        //TC: O(N)
+        //SC: O(1)
     }
 }
